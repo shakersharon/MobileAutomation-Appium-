@@ -1,0 +1,10 @@
+{
+  "android_apidemos": {
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "emulator-5554",
+    "app": "apps/ApiDemos-debug.apk",
+    "appPackage": "io.appium.android.apis",
+    "appActivity": "io.appium.android.apis.ApiDemos"
+  }
+}
